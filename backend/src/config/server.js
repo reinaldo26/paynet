@@ -10,3 +10,4 @@ server.listen(port, ()=>{
     console.log(`paynet-backend running om port ${port}.`)
 })
 
+module.exports = server
